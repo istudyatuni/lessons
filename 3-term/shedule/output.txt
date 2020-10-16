@@ -1,0 +1,188 @@
+input subjects:
+
+subject 1:
+enter name:dsa
+number pair in week: 1
+subject type (practic, lection): f
+lection
+tId: 0
+
+subject 2:
+enter name:slfj
+number pair in week: 1
+subject type (practic, lection): p
+practic
+tId: 1
+
+subject 3:
+enter name:sfj
+number pair in week: 3
+subject type (practic, lection): j
+lection
+tId: 2
+
+subject 4:
+enter name:lja
+number pair in week: 2
+subject type (practic, lection): j
+lection
+tId: 3
+
+subject 5:
+enter name:fsjf
+number pair in week: 3
+subject type (practic, lection): p
+practic
+tId: 4
+
+subject 6:
+enter name:sfd
+number pair in week: 3
+subject type (practic, lection): p
+practic
+tId: 5
+
+subject 7:
+enter name:jsdf
+number pair in week: 3
+subject type (practic, lection): f
+lection
+tId: 6
+
+subject 8:
+enter name:saf
+number pair in week: 3
+subject type (practic, lection): f
+lection
+tId: 7
+
+subject 9:
+enter name:dsa
+number pair in week: 4
+subject type (practic, lection): asdf
+lection
+tId: 8
+
+subject 10:
+enter name:number pair in week: 4
+subject type (practic, lection): p
+practic
+tId: 9
+table subjects:
+print subjects:
+* * dsa:
+1 pair in week
+lection
+tutor ID: 0
+* * slfj:
+1 pair in week
+practic
+tutor ID: 1
+* * sfj:
+3 pair in week
+lection
+tutor ID: 2
+* * lja:
+2 pair in week
+lection
+tutor ID: 3
+* * fsjf:
+3 pair in week
+practic
+tutor ID: 4
+* * sfd:
+3 pair in week
+practic
+tutor ID: 5
+* * jsdf:
+3 pair in week
+lection
+tutor ID: 6
+* * saf:
+3 pair in week
+lection
+tutor ID: 7
+* * dsa:
+4 pair in week
+lection
+tutor ID: 8
+* * sdf:
+4 pair in week
+practic
+tutor ID: 9
+
+enter tutors:
+enter name: fsa
+enter position: decan
+work:
+1 1 1 0 1
+1 0 1 1 0
+1 0 0 1 0
+1 1 0 0 1
+enter name: safd
+enter position: rec
+work:
+1 1 0 0 0
+0 1 1 0 1
+0 0 0 1 0
+1 0 1 1 0
+enter name: dsaf
+enter position: prepod
+work:
+1 1 1 0 1
+0 0 0 0 1
+1 0 0 1 1
+1 0 0 0 0
+enter name: sdaldk
+enter position: rec
+work:
+0 0 1 0 0
+1 1 0 1 1
+0 1 0 0 0
+0 0 0 0 1
+enter name: adsf
+enter position: dsaf
+work:
+0 0 1 1 1
+1 0 0 1 0
+1 0 0 0 0
+0 0 1 0 1
+enter name: fjdsl
+enter position: sdfj
+work:
+0 1 1 0 0
+1 0 1 1 0
+1 0 0 0 0
+1 0 0 1 0
+enter name: sdfja
+enter position: dfjs
+work:
+0 1 1 0 0
+1 1 0 0 1
+0 1 0 1 0
+0 0 1 1 0
+enter name: jfksa
+enter position: fd
+work:
+0 1 1 0 1
+1 0 1 1 0
+0 0 0 0 0
+0 0 0 1 0
+enter name: dfjsl
+enter position: rec
+work:
+1 1 1 0 0
+1 1 1 1 0
+0 0 1 1 0
+1 0 1 0 0
+enter name: fsja
+enter position: cds
+work:
+1 0 1 1 1
+1 0 1 0 0
+1 0 0 1 1
+0 1 1 1 0
+after sort:
+print subjects:
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
