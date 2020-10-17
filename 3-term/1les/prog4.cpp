@@ -1,4 +1,4 @@
-﻿//sin x + (sin x)^2 + . . . + (sin x)^n
+//sin x + (sin x)^2 + . . . + (sin x)^n
 #include <iostream>
 #include <cmath>
 using namespace std;

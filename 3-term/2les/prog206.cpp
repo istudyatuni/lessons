@@ -1,4 +1,4 @@
-﻿//find max among k * e^( (sin(k+1))^2 ):[1, n] and their sum
+//find max among k * e^( (sin(k+1))^2 ):[1, n] and their sum
 #include <iostream>
 #include <cmath>
 using namespace std;

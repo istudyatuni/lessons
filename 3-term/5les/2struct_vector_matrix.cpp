@@ -136,10 +136,3 @@ matrix vect_to (vect a1, vect a2, vect a3){
     }
     return res;
 }
-
-
-
-
-
-
-

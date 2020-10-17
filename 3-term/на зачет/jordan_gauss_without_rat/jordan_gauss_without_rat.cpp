@@ -1,4 +1,4 @@
-﻿// jordan_gauss_without_rat.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+// jordan_gauss_without_rat.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //it is not jordan gauss, it is up triangle matrix
 
 #include <iostream>

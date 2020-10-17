@@ -1,4 +1,4 @@
-﻿//cos1*(cos1+cos2)*...*(cos1+cos2+..+cosn)
+//cos1*(cos1+cos2)*...*(cos1+cos2+..+cosn)
 //div
 //sin1*(sin1+sin2)*...
 #include "pch.h"

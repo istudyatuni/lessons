@@ -1,4 +1,4 @@
-﻿#include "bits.h"
+#include "bits.h"
 using namespace std;
 struct ration {
 	long m, n; // m / n

@@ -1,4 +1,4 @@
-﻿//sqrt( 3*1 + sqrt(3*2 + .. + sqrt(3*(n-1) + sqrt(3*n))..))
+//sqrt( 3*1 + sqrt(3*2 + .. + sqrt(3*(n-1) + sqrt(3*n))..))
 #include <iostream>
 using  namespace std;
 int main()

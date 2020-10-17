@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <cmath>
 #include <vector>
 using std::cout;
@@ -39,7 +39,7 @@ public:
         return (mx < sum ? true : false);
     }
 
-    double lenght_side(int a, int b) { 
+    double lenght_side(int a, int b) {
         std::cout << "fack\n";
         cout << coordinates[a].x << ' ' << coordinates[a].y;
         return sqrt((coordinates[a].x - coordinates[b].x) * (coordinates[a].x - coordinates[b].x) +

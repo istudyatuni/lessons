@@ -1,4 +1,4 @@
-﻿//worked not correct
+//worked not correct
 #include <iostream>
 #include <vector>
 #include <cmath>

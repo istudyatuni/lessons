@@ -1,4 +1,4 @@
-﻿//worked
+//worked
 #include <iostream>
 #include <vector>
 #include <cstdlib>
@@ -114,7 +114,7 @@ int main() {
 	f.close();
 	return 0;
 }
-ration reduct(ration a) { 
+ration reduct(ration a) {
 	if (a.m > 0 && a.n < 0) {
 		//if a / -b , ration = -a / b
 		a.m = 0 - a.m;

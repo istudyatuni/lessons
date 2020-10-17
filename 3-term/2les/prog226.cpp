@@ -1,10 +1,10 @@
-﻿//найти все общие натуральные кратные чисел m и n, меньшие mn
+//найти все общие натуральные кратные чисел m и n, меньшие mn
 #include <iostream>
 using namespace std;
 int main()
 {
 	unsigned m, n;
-    std::cout << "enter m, n: ";
+	std::cout << "enter m, n: ";
 	cin >> m >> n;
 	cout << "mn = " << m * n << endl;
 	for (int i = 1; i < m*n; i++) {

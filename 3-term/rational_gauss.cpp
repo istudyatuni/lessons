@@ -1,4 +1,4 @@
-﻿#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 struct ration {
 	long m, n; // m / n
@@ -10,7 +10,7 @@ ration mul_rat (ration a, ration b);
 ration div_rat (ration a, ration b);
 ration in_rat ();
 void out_rat (ration a);
- 
+
 int main() {
 	/// m / n ///
 	srand(time(0));
